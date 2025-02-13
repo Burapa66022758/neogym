@@ -3,7 +3,7 @@
   gather_facts: false
   remote_user: root
   tasks:
-    - name: Building Docker Image
+    - name: 66022758
       docker_image:
         name: 66022758:latest  # docker image name
         source: build
